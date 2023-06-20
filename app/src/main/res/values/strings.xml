@@ -1,4 +1,24 @@
 <resources>
     <string name="app_name">Minhas Molduras</string>
     <string name="descricao_imagem1">Borboleta Capitão-do-Mato</string>
+    <string name="descricao_imagem2">Borboleta Esmeralda</string>
+    <string name="borboleta_esmeralda">Borboleta Esmeralda</string>
+    <string name="borboleta_capitao_do_mato">Borboleta Capitão-do-mato</string>
+    <string name="descricao_imagem3">Borboleta Papilio Thoas </string>
+    <string name="borboleta_papilio_thoas">Borboleta Papilio Thoas</string>
+    <string name="descricao_imagem4"> Borboleta Hebomoia </string>
+    <string name="borboleta_hebomoia"> </string>
+    <string name="descricao_imagem5"> Borboleta Seda Azul </string>
+    <string name="borboleta_seda_azul"> Borboleta Seda azul </string>
+    <string name="descricao_imagem6"> Borboleta Zebra </string>
+    <string name="borboleta_Zebra"> Borboleta Zebra </string>
+    <string name="descricao_imagem7"> Luzon peacock swallowtail </string>
+    <string name="borboleta_luzon_peacock_swallowtail"> Luzon Peacock Swallowtail </string>
+    <string name="descricao_imagem8"> Leona´s Litlle Blue </string>
+    <string name="borboleta_leonas_litlle_blue"> Leona´s Litlle Blue </string>
+    <string name="descricao_imagem9"> Borboleta Kaiser Hind Índia </string>
+    <string name="borboleta_kaiser_hind"> Borboleta Kaiser Hind Índia </string>
+    <string name="descricao_imagem10"> Borboleta de mármore da ilha  </string>
+    <string name="borboleta_de_mármore_da_ilha"> Borboleta de mármore da ilha  </string>
 </resources>
+
